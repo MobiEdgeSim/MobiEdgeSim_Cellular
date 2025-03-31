@@ -18,7 +18,7 @@ MobiEdgeSim provides a comprehensive set of simulation configuration files and s
 
 ## Usage
 
-This project provides simulation configuration files (e.g., NED and INI files) ready to be imported into the OMNeT++ environment. Users can directly modify and extend these configurations according to their requirements.
+This project provides a simulation configuration files as expample (e.g., NED and INI files). Users can modify and extend these configurations according to their requirements.
 
 To create your own scenarios, modify the provided `.ned` and `.ini` files, adjusting parameters such as MEC server numbers, UE mobility patterns, and network topology details.
 
@@ -29,6 +29,10 @@ To create your own scenarios, modify the provided `.ned` and `.ini` files, adjus
 - INET 4.5
 - Veins 5.2
 - [Simu5G-MobiEdgeSim](https://github.com/MobiEdgeSim/Simu5G-MobiEdgeSim)
+- 
+## WLAN-based Simulation (Under Development)
+
+Currently developing a simulation framework for task placement and resource allocation based on Wi-Fi communications. See updates at MobiEdgeSim_WIFI.
 
 ## License
 
