@@ -1,0 +1,9 @@
+<config>
+    <interface hosts="StaticNodes.iUpf5" names="ppp32" address="192.168.x.x" netmask="255.255.0.0"/>
+    <interface hosts="mecHost*" names="pppInterface" address="192.168.x.x" netmask="255.255.0.0"/>
+    
+
+    <interface hosts="gNodeB*" names="cellular" address="10.x.x.x" netmask="255.255.0.0"/>
+    <interface hosts="ue[*]" names="cellular" address="10.x.x.x" netmask="255.255.0.0"/>
+    <interface hosts="mmecHost[*]" names="cellular" address="10.x.x.x" netmask="255.255.0.0"/>
+</config>

@@ -1,0 +1,22 @@
+{
+  "appDid": "GENERICAPP",
+  "appName": "MECRequestResponseApp",
+  "appProvider": "simu5g.apps.mec.MecRequestResponseApp.MECRequestResponseApp",
+  "appInfoName": "GenericAppInfo",
+  "appDescription": "A generic application with mixed workload.",
+  "virtualComputeDescriptor": {
+    "virtualDisk": 1,
+    "virtualCpu": 500,
+    "virtualMemory": 512
+  },
+  "appServiceRequired": [
+    {
+      "ServiceDependency": {
+        "serName": "GenericService",
+        "version": "v1",
+        "serCategory": "General"
+      }
+    }
+  ]
+}
+

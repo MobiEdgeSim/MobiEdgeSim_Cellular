@@ -1,0 +1,3 @@
+package simulationdublin;
+
+@license(LGPL);
