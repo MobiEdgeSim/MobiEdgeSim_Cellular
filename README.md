@@ -40,4 +40,4 @@ This configuration project is provided under the GNU Lesser General Public Licen
 
 ## Contact
 
-For questions, suggestions, or further information, please contact the repository maintainer at [zhangt@tcd.ie](mailto:zhangt@tcd.ie). Emails are periodically reviewed and responded to.
+For questions, suggestions, or further information, please contact the repository maintainer at [zhangt@tcd.ie](mailto:zhangt5@tcd.ie). Emails are periodically reviewed and responded to.
